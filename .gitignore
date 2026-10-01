@@ -1,0 +1,29 @@
+# local runs and probes
+relay-runs/
+_probe/
+next.json
+result.json
+
+# local config (lives in ~/.multi-model-relay/, never here)
+config.json
+config.local.json
+*.key
+*.secret
+.env
+.env.*
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# os / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# packaging output
+dist/
+*.zip
