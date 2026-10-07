@@ -53,7 +53,7 @@ Two backends, chosen automatically:
 ## Install
 
 ```bash
-git clone https://github.com/<you>/multi-model-relay.git
+git clone https://github.com/watsonbkeel/multi-model-relay.git
 cd multi-model-relay
 ./install.sh              # symlinks into every platform skill dir that exists
 ./install.sh --all        # ...or create them all
@@ -155,7 +155,7 @@ A → B → C** 接力优化。每一轮模型都能看到「原文 + 上一稿 
 ## 安装
 
 ```bash
-git clone https://github.com/<you>/multi-model-relay.git
+git clone https://github.com/watsonbkeel/multi-model-relay.git
 cd multi-model-relay
 ./install.sh          # 软链接到已存在的各平台 skills 目录
 ./install.sh --all    # 或全部创建
